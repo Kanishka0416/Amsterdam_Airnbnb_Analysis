@@ -34,6 +34,8 @@ AMSTERDAM_AIRBNB_ANALYSIS/
 │   ├── airbnbams.sql
 │   └── SQLQUERIES.sql
 |
+|__images
+|
 |__airbnb_analysis.py
 │
 └── README.md
